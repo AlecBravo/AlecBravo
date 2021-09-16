@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @AlecBravo
 - 👀 I’m interested in learning new skills to help the planet.
 - 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AlecBravo/AlecBravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: https://www.linkedin.com/in/alecbravo/
+- Data Analytics & Research | Facilitating Growth Through Accurate Data Analysis | Actively Working to Foster New Skills in Data Analysis
+- Data Analyst with 2 years experience eager to be part of an amazing team and ready to continue learning.  Sourcing, organizing, and presenting data for outreach in an        organized manner using various platforms is my specialty.  Automating processes and creating workflows allow for increased productivity and the design of new business methods.  I am highly passionate about data, environmental conservation, and opportunities to make a difference in a team-oriented environment.
